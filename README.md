@@ -22,13 +22,13 @@ Le dashboard s'articule autour de deux axes :
 
   **1-Carte de France Interactive :**
 
-    • Visualise la performance de chaque département par rapport à la moyenne nationale.
+   • Visualise la performance de chaque département par rapport à la moyenne nationale.
 
-    • Un code couleur (🔴 Rouge = au-dessus de la moyenne, 🟠 Orange = proche, 🟢 Vert = en dessous) permet d'identifier instantanément les zones où les jeunes sortant du système scolaire sont les plus        diplômés.
+   • Un code couleur (🔴 Rouge = au-dessus de la moyenne, 🟠 Orange = proche, 🟢 Vert = en dessous) permet d'identifier instantanément les zones où les jeunes sortant du système scolaire sont les plus        diplômés.
 
   **2-Graphique Comparatif (Urbain vs. Rural) :**
 
-    • Un barplot met en évidence les écarts de réussite entre les zones urbaines denses et les zones rurales, illustrant l'influence de l'accès aux ressources éducatives.
+   • Un barplot met en évidence les écarts de réussite entre les zones urbaines denses et les zones rurales, illustrant l'influence de l'accès aux ressources éducatives.
 
 ## Structure des Données
 Ce dépôt contient deux fichiers de données clés :
@@ -42,10 +42,10 @@ Ce dépôt contient deux fichiers de données clés :
 
  • **Compétences** :
 
-    • **Nettoyage de données (Data Cleaning)** : Traitement et structuration de fichiers statistiques complexes.
+   • **Nettoyage de données (Data Cleaning)** : Traitement et structuration de fichiers statistiques complexes.
 
-    • **Datavisualisation** : Création de dashboards interactifs et pertinents.
+   • **Datavisualisation** : Création de dashboards interactifs et pertinents.
 
-    • **Analyse de données** : Comparaison à la moyenne, identification de tendances.
+   • **Analyse de données** : Comparaison à la moyenne, identification de tendances.
 
-    • **Data Storytelling** : Apprendre à "faire parler les chiffres" pour construire un message clair et humain sur un enjeu social.
+   • **Data Storytelling** : Apprendre à "faire parler les chiffres" pour construire un message clair et humain sur un enjeu social.
